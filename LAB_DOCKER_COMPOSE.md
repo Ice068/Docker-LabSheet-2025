@@ -863,7 +863,7 @@ docker rm backend
 ```
 บันทึกรูปผลการรัน curl http://localhost:5000
 ```
-![alt text](image-3.png)
+![alt text](image-6.png)
 ---
 
 ### ❓ คำถามท้ายขั้นตอนที่ 3
